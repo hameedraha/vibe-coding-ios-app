@@ -1,4 +1,4 @@
-# AI-Driven Vibe Coding: A Step-by-Step iOS App Development Guide
+# Solo Developers Guide to Vibe Coding An iOS Mobile App
 
 ## Introduction
 
